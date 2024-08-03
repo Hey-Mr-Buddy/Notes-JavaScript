@@ -1,0 +1,50 @@
+--> JavaScript! What is it ?
+          JavaScript also reffered as JS is one of the 3 fundamental languages essential for web developers. 
+          In a web page, HTML defines the structure, CSS makes it beautiful but JS is the one which makes it interactive.
+              note that java and javascript are two different programming languages both in concept and design.
+
+          JavaScript became an ECMA standard in 1997 and is also reffered as ECMAScript.
+              ECMA is european computer manufacturers association. It develops and publishes international standard for information and communication industry.
+
+--> javascript doesn't needs to be installed, it is already present in your machine.
+          Open any browser; right click on any element; click inspect and go to console, console - it is where you can write and run your JavaScript program.
+
+--> How to print my JS program?
+          In JS there are various methods to display data
+              1) writing into an HTML Element,using - innerHTML
+              2) writing into your HTML Output, using - document.write()
+              3) writing into an alert box,using - window.alert()
+              4) writing into the browser console, using console.log()
+
+
+one of the best ide to practice JS is Replit
+
+
+Let's get started!
+
+
+--> what are literals and identifiers ???
+
+          literals are basiclly those which don't change while identifiers are the names of variables, methods,classes, packages, and interfaces. Identifiers are those which can change their values.
+          
+              variables are the names of location where a data is stored, and the type of data stored is called data type.
+              note that the names of variables are case sensitive and can contain letters, numbers, underscore and $ symbol.
+              also name of a reserved words in JS can not be used as names of variables.
+          
+              some of the reserved words i.e. keywords are- 
+                    var          -   declares a variable
+                    let          -   declares a block variable
+                    if           -   marks a block of statement to be executed on condition
+                    switch       -   to mark a block of statement to be executed on different case
+                    for          -   marks a block of statement to be executed in a loop
+                    function     -   declares a function
+                    return       -   exits a function
+              
+
+--> differentiation between var, let and const
+
+      var is globally scoped while let and const are block scoped
+      
+      var can be updated and redeclared within the scope
+      let can be updated but cannot be redeclared
+      const can neither be updated nor be redeclared
